@@ -1,0 +1,23 @@
+[
+  {
+    "id": "95238010-90e6-4ef1-95f3-aeac14f643ad",
+    "name": "Alpine",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "d05a258d-d49b-4704-a2dd-3fe273785859",
+    "name": "Corvette",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "c80f242c-1d88-4e8b-8089-851c149bd89a",
+    "name": "ATS",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
